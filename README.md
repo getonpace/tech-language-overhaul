@@ -9,11 +9,11 @@ This is an iniative of PACE's Black Star Alliance that aligns developers & techn
 | Slave                   	| Follower                   	| Secondary             	|                        	|
 | Whitelist               	| Allow List                 	| Approved              	|                        	|
 | Blacklist               	| Block List                 	| Restricted            	|                        	|
-|                         	|                            	|                       	|                        	|
-
-
-
-
+| Whitehat               	|                            	| Restricted            	|                        	|
+| Blackhat               	|                            	| Restricted            	|                        	|
+| Blackmail              	|                             	| Restricted            	|                        	|
+| Blackbox               	|                              	| Restricted            	|                        	|
+| Open The Kimono           | Shed Light On...             	| Restricted            	|                        	|
 
 
 This effort is supported by the following companies: None So Far, So Keep Evangelizing This Effort!
