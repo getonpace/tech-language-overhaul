@@ -16,4 +16,4 @@ This is an iniative of PACE's Black Star Alliance that aligns developers & techn
 
 
 
-This effort is supported by the following companies with technology enviroemnt regardless or industry.
+This effort is supported by the following companies: None So Far, So Keep Evangelizing This Effort!
